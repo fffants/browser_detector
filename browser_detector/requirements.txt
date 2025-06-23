@@ -1,0 +1,2 @@
+rich>=10.0.0
+pywin32>=228; sys_platform == 'win32' 
