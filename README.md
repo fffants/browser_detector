@@ -35,13 +35,11 @@ pip install -r requirements.txt
 ```bash
 python -m browser_detector.main
 ```
-
 或:
 
 ```bash
 python -m browser_detector.main --gui
 ```
-
 ### 命令行界面(CLI)
 
 启动CLI模式:
@@ -49,7 +47,6 @@ python -m browser_detector.main --gui
 ```bash
 python -m browser_detector.main --cli
 ```
-
 CLI选项:
 
 - `-j, --json`: 以JSON格式输出结果
